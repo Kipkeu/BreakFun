@@ -1,4 +1,12 @@
 {
-    "points": 10,
-    "last_activity_date": "2025-01-02"
+    "Babe": {
+        "points": 5,
+        "last_activity_date": "2025-01-02",
+        "last_image_uploaded": "2025-01-02"
+    },
+    "Rocketer": {
+        "points": 5,
+        "last_activity_date": "2025-01-02",
+        "last_image_uploaded": "2025-01-02"
+    }
 }
